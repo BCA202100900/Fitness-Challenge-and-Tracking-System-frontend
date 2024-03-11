@@ -1,0 +1,1 @@
+export const API = "https://fitness-challenge-and-tracking-system-backend.vercel.app"
